@@ -11,6 +11,10 @@
     display: none;
 }
 
+#login-form{
+    display: none;
+}
+
 @keyframes rotate {
     0% {
         transform: rotate(0deg);
