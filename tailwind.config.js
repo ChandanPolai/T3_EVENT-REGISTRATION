@@ -9,6 +9,7 @@ module.exports = {
         'robot': ['Roboto', 'sans-serif'],
         'Desgin': ["Protest Strike", 'sans-serif'],
         'Poppiens': ["Poppins", 'sans-serif'],
+        'sty': [ "Anta", 'sans-serif'],
       },
     },
   },
